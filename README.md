@@ -1,0 +1,1 @@
+# MScArtificialIntelligence_ParkingLotAvailabilityDetection
